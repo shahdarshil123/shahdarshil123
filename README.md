@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About me:
+
+\- Graduate student at Northeastern University 👨‍🎓
+
+\- Worked as a Systems Engineer 👨‍💻 @Infosys Limited
