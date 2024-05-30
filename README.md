@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Darshil Shah</h1>
 <h3 align="left">I am currently a student at Northeastern University</h3>
 
-- 👨‍💻 Visit my <a href = "https://shahdarshil123.github.io/darshil-portfolio/](https://shahdarshil123.github.io/darshil-portfolio/" target = "blank">Portfolio</a>
+- 👨‍💻 Visit my <a href = "https://shahdarshil123.github.io/darshil-portfolio/" target = "blank">Portfolio</a>
 
-- 📫 Reach me at **darshilshah622@gmail.com**
+- 📫 Reach me at <a href = "mailto:darshilshah622@gmail.com" target = "blank">**darshilshah622@gmail.com**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
