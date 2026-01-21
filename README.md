@@ -2,11 +2,18 @@
 <h3 align="center">Software Engineer | Data Engineering Focus </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/darshilshah622/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:shah.darshilr@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
-  <!-- <a href="https://shahdarshil123.github.io/darshil-portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a> -->
-  <!-- <a href="https://github.com/shahdarshil123" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p> -->
+  <a href="https://linkedin.com/in/darshilshah622/?utm_source=github&utm_medium=profile&utm_campaign=social_links" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="mailto:shah.darshilr@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+  </a>
+  
+  <a href="https://shahdarshilr-portfolio.netlify.app/?utm_source=github&utm_medium=profile&utm_campaign=portfolio_view" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FFBD39?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
