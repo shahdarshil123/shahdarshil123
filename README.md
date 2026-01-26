@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
   
-  <a href="https://shahdarshilr-portfolio.netlify.app/?utm_source=github&utm_medium=profile&utm_campaign=portfolio_view" target="_blank">
+  <a href="https://shahdarshilr-portfolio.vercel.app/?utm_source=github&utm_medium=profile&utm_campaign=portfolio_view" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FFBD39?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
