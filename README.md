@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshil Shah</h1>
-<h3 align="center">Software Engineer | Data Engineering Focus </h3>
+<h3 align="center">Software & Data Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/darshilshah622/?utm_source=github&utm_medium=profile&utm_campaign=social_links" target="_blank">
